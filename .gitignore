@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
+
+*.iml
+
+## Directory-based project format:
+.idea/
+
+/bin/
+/target/
+.classpath
+.settings
+.project
+deploy.sh
+lib
+src/test
+sms-sdk-java.iml
+sms-server.iml
